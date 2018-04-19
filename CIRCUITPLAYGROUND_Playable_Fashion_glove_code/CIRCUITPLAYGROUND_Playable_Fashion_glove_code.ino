@@ -34,6 +34,6 @@ void loop(){
     // turn LED off:
     //Keyboard.release(' ');//FOR KEYBOARD
     digitalWrite(ledPin, LOW); 
-    CircuitPlayground.clearPixels();
+   
   }
 }
